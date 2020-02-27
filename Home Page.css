@@ -1,0 +1,31 @@
+.navbar {
+	background-color: #151516;
+}
+.nnavbarSupportedContent{
+	color: white;
+}
+h5{
+	color:#E6E1E0;
+	font-family:berlin sons fb demi;
+	font-weight: bold; 
+}
+.navbar-toggler{
+	background-color:#FCFFE7;
+}
+
+h6{
+	color:#E6E1E0;
+	font-family:berlin sons fb demi;
+	font-weight: bold;
+}
+
+.dropdown-menu{
+  background-color: #FF8181;
+  font-family: berlin sons fb demi;
+  font-color: white;
+  font-weight: bold;
+} 
+.dropdown{
+	background-color:#DD5CA5;
+	font-family:berlin sons fb demi;
+	font-weight: bold;
